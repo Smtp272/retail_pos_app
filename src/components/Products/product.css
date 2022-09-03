@@ -1,0 +1,15 @@
+body{
+    --btn-added:rgba(0,0,0,0.1);
+    --btn-hover-border:#f44336;
+}
+
+
+button.grey{
+    background: var(--btn-added);
+    border-color:var(--btn-added);
+}
+
+button.grey:hover{
+    background: var(--btn-added);
+    border-color: var(--btn-hover-border);
+}

@@ -1,0 +1,10 @@
+ [
+    { "id":1, "unitPrice": 300, "name": "A1-(Coloured)","imgUrl":"images\\A1_Logo_Red.jpg" },
+    { "id":2, "unitPrice": 150, "name": "A1-(Greyscale)","imgUrl":"images\\A1_Logo_Red.jpg" },
+    { "id":3, "unitPrice": 10, "name": "A4-(Coloured)","imgUrl":"images\\A1_Logo_Red.jpg" },
+    { "id":4, "unitPrice": 5, "name": "A4-(GreyScale)","imgUrl":"images\\A1_Logo_Red.jpg" },
+    { "id":5, "unitPrice": 30, "name": "A3-(Coloured)","imgUrl":"images\\A1_Logo_Red.jpg" },
+    { "id":6, "unitPrice": 10, "name": "A3-(GreyScale)","imgUrl":"images\\A1_Logo_Red.jpg" },
+    { "id":7, "unitPrice": 70, "name": "A3-Binding","imgUrl":"images\\A1_Logo_Red.jpg" },
+    { "id":8, "unitPrice": 40, "name": "A4-Binding","imgUrl":"images\\A1_Logo_Red.jpg" }
+]

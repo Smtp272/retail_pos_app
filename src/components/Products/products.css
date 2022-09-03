@@ -1,0 +1,32 @@
+.products {
+    flex: 0.5;
+    display: flex;
+    flex-direction: column;
+    width: auto;
+    margin-left: 20px;
+    margin-right: 20px;
+    
+}
+
+.products-header{
+    position: sticky;
+    top: 0;
+    background-color: white;
+    z-index: 100;
+    padding: 15px 20px;
+    border-radius: 20px;
+    margin-bottom: 30px;
+}
+
+.products-row{
+    overflow-y:scroll;
+    overflow-x:hidden;
+    width:auto;
+    scroll-behavior: smooth;
+    border-radius: 10px;
+}
+
+.products-row-div{
+    justify-content: center;
+    align-items: center;
+}
